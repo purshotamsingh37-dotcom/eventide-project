@@ -1,0 +1,7 @@
+{
+  "name": "Eventide",
+  "description": "The Complete Event & Marriage Planning Ecosystem connecting Clients, Planners, and Vendors.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
